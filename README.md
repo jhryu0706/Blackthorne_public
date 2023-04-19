@@ -1,5 +1,6 @@
 # Blackthorne_to_show
 __this repository does not contain private data, only the code to process hypothetical data__
+
 The purpose of this repository is to test out the Four Factor model laid out in the paper by Blotcher and others (2018).
 The original document can be found under __Journal of Futures Markets__.
 
