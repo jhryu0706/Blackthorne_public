@@ -1,4 +1,4 @@
-# Blackthorne_public
+# Blackthorne project
 *__this repository does not contain private data, only the code to process hypothetical data__
 
 
