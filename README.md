@@ -14,9 +14,9 @@
     Then run the following commands and choose function 
     depending on the output you are looking for:
         
-        from Phase1 import __function name goes here__
+        from [Phase1] import [function name]
     
-    1. separate factors:
+    1. To run separate factors:
         factor1 -> run factor1():
         factor2 -> run factor2():
         factor3 -> run factor3():
@@ -24,25 +24,3 @@
 
     2. to see all results converted to excel:
         run all_to_xl()
-
-**[seeing results for PnL]**
-
-
-
- # Errors/Notes
-## [files with errors]
-
-    GF starts 2001
-
-## [calculating basis]
-    SI updated: --> 0
-        430	#NAME?
-        928	#NAME?
-        1177#NAME?
-    HG updated:
-        924	#NAME?
-        1175 #NAME?
-
-## [dates]
-    Length of arrays fit to GF (shortest dataset)--> 
-    most dates do not match up
